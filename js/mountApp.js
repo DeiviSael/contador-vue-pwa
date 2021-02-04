@@ -1,0 +1,1 @@
+const nountApp = app.mount("#app");
